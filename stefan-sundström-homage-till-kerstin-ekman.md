@@ -41,7 +41,7 @@ löven lekte med skuggorna, och solens gröna ljus
 
                       G                       Bm
 När alla vaknar upp i dalen, högt där ovanför byn
-         C                            Cm             
+         C                            Cm?            
 nere vid Rüdesheim, där träden nästan når upp till skyn
     G               Em
 där träden får växa ifred
