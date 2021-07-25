@@ -50,7 +50,7 @@ och där flyttfåglarna slår sig ned
 
         G                   Bm
 Här har Gud ett av sina små gömställen
-        C                      G
+        C                           G
 som han häckar på när han vill vila ut
       Cm                          G
 Som i drömmen med fru Ekman härom kvällen
