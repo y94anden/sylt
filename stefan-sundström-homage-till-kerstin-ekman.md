@@ -40,7 +40,8 @@ Men jag och Kerstin Ekman, flög i drömmen
 löven lekte med skuggorna, och solens gröna ljus  
 
 När alla vaknar upp i dalen, högt där ovanför byn  
-nere vid ???, där träden nästan når upp till skyn  
+nere vid ???, där träden nästan når upp till skyn
+                    Em
 där träden får växa ifred  
 och där flyttfåglarna slår sig ned  
 
