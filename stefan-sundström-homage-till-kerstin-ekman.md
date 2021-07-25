@@ -34,9 +34,9 @@ dom ligger sen där inne och ber
 Men jag och Kerstin Ekman, flög i drömmen
          C                     G
 över ett skogigt Europa, numer glömt
-     Cm                                      G
+     Cm                              G
 över träd höga som kyrktorn, som dom högaste hus
-                A7                          D
+      A7                              D
 löven lekte med skuggorna, och solens gröna ljus  
 
 När alla vaknar upp i dalen, högt där ovanför byn  
