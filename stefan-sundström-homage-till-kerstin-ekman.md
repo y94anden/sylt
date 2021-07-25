@@ -39,19 +39,30 @@ Men jag och Kerstin Ekman, flög i drömmen
       A7                              D
 löven lekte med skuggorna, och solens gröna ljus  
 
-När alla vaknar upp i dalen, högt där ovanför byn  
-nere vid ???, där träden nästan når upp till skyn
-                    Em
-där träden får växa ifred  
-och där flyttfåglarna slår sig ned  
+                      G                       Bm
+När alla vaknar upp i dalen, högt där ovanför byn
+         C                            Cm             
+nere vid Rüdesheim, där träden nästan når upp till skyn
+    G               Em
+där träden får växa ifred
+        A7                     D
+och där flyttfåglarna slår sig ned
 
-Här har Gud ett av sina små gömställen  
-som han häckar på när han vill vila ut  
-Som i drömmen med fru Ekman härom kvällen  
+        G                   Bm
+Här har Gud ett av sina små gömställen
+        C                      G
+som han häckar på när han vill vila ut
+      Cm                          G
+Som i drömmen med fru Ekman härom kvällen
+         A7                    D
 Vi kunde landa där det såg som vackrast ut
 
-Hur ser Gud ut, kanske du nångång mig frågar  
-Då ska jag svara dig, såhära ungefär  
-Han är som jag, han är som vi, och han är hon och han är du  
+            G                         Bm
+Hur ser Gud ut, kanske du nångång mig frågar
+           C                 G
+Då ska jag svara dig, såhära ungefär
+           Cm                             G
+Han är som jag, han är som vi, och han är hon och han är du
+       ???                          G?
 Han är allting som du kan få syn på här
 ```
