@@ -16,9 +16,9 @@ Cm G A7 D
 Hur ser Gud ut, alla undrar och funderar 
            C                           G
 När dom är små, sen kommer nån där och domderar
-C?       Cm             G
+C?                     G
 Typ nån gammal skäggig patriark
-      A7                  ?           D
+      A7                              D
 säger Gud ser ut som jag, så stor och stark
 
                   G                             Bm
