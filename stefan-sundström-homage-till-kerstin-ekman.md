@@ -63,6 +63,6 @@ Hur ser Gud ut, kanske du nångång mig frågar
 Då ska jag svara dig, såhära ungefär
            Cm                             G
 Han är som jag, han är som vi, och han är hon och han är du
-       ???                          G?
+       D?                           G?
 Han är allting som du kan få syn på här
 ```
