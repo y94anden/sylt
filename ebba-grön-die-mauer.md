@@ -2,6 +2,7 @@
 
 *Note to Lucas*: Skriv ut med fixed-width font, t.ex. Courier New eller Consolas.
 
+```
 Am                  Em  
 Halt! Här får ingen passera  
 G                Am  
@@ -49,6 +50,7 @@ C               E   Am
 
 Alla vackra rosor är våta  
 Av blodet från ert heliga korståg  
+
 Och jag ska aldrig förlåta  
 Det som hände vid muren  
 
@@ -75,3 +77,5 @@ Jag vet precis hur
 Vi skulle få leva här  
 Vi skulle få leva här  
 Vi skulle få leva här  
+
+```
