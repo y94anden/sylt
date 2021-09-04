@@ -1,5 +1,8 @@
-G C D
+# Askan & Charlie, Lucas Asterlund
 
+Ackord: G C D
+
+```
 Nytt liv är här
 Någon annan får gå
 You cant always get what you want
@@ -19,5 +22,4 @@ Det var dags för han att gå
 Men du kom hit och tände ett ljus
 Shine a light on me
 Shine a light on me
-
-
+```
