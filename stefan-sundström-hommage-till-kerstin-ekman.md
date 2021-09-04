@@ -1,4 +1,4 @@
-# Homage till Kerstin Ekman, Stefan Sundström
+# Hommage till Kerstin Ekman, Stefan Sundström
 
 Lucas gillade sax-solot.
 
