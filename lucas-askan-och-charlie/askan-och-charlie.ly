@@ -7,7 +7,7 @@
 
 melody = \relative c'' {
   \clef treble
-  \key f \major
+  \key g \major
   \time 4/4
 
   d8 d4 g,8 a4. b16 a  |
@@ -64,3 +64,20 @@ ackord = \chordmode {
   }
 }
 
+\markup {
+  \column {
+    \line { Du föddes i ett regn                   }
+    \line { Ett crossfire hurricane                }
+    \line { Men någonstans där borta lös solen     }
+    \line { Din morsa är stark och farsan är ball  }
+    \line { Tillsammans är dom ett hav             }
+    \line { Din ledstjärna är Idun                 }
+    \line { Hon har vandrat många steg             }
+    \line { Hennes skor är redan nöta              }
+    \line { Charlie han stack                      }
+    \line { Det var dags för han att gå            }
+    \line { Men du kom hit och tände ett ljus      }
+    \line { Shine a light on me                    }
+    \line { Shine a light on me                    }
+  }
+}
